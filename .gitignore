@@ -4,3 +4,4 @@
 *.ipynb_checkpoints/
 #Ignore Python cache
 __pycache__/
+practice/
