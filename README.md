@@ -85,7 +85,7 @@ The focus was on clarity and usability rather than decorative visuals.
 ---
 
 ## Project Structure
-'''
+```
 streaming_platform_content_strategy_analysis/
 ├── data/
 ├── notebooks/
@@ -93,7 +93,7 @@ streaming_platform_content_strategy_analysis/
 ├── powerbi/
 ├── images/
 └── README.md
-'''
+```
 
 
 ---
