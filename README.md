@@ -1,5 +1,10 @@
 # Streaming Platform Content Strategy Analysis
 
+## 📌 Project Scope
+This project focuses on content strategy analysis for streaming platforms.
+Netflix content data is used as a primary case study to analyze content growth, genre distribution, regional presence, and audience targeting strategies.
+
+## 📊 Project Overview
 This project analyzes streaming platform content data to understand how content has evolved over time, how it is distributed across regions, and what kind of audience it targets.
 
 The goal was to build a complete analytics workflow — starting from raw data, cleaning and transforming it, validating results, and finally presenting insights using dashboards.
